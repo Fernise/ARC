@@ -1,0 +1,24 @@
+[0.262s] Invoking command in '/arc2026/ws/src/safety_node2': PYTHONPATH=/arc2026/ws/build/safety_node2/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/arc2026/ws/install/safety_node2/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/safety_node2 build --build-base /arc2026/ws/build/safety_node2/build install --record /arc2026/ws/build/safety_node2/install.log --single-version-externally-managed install_data
+[0.341s] running egg_info
+[0.347s] writing ../../build/safety_node2/safety_node2.egg-info/PKG-INFO
+[0.348s] writing dependency_links to ../../build/safety_node2/safety_node2.egg-info/dependency_links.txt
+[0.348s] writing entry points to ../../build/safety_node2/safety_node2.egg-info/entry_points.txt
+[0.348s] writing requirements to ../../build/safety_node2/safety_node2.egg-info/requires.txt
+[0.349s] writing top-level names to ../../build/safety_node2/safety_node2.egg-info/top_level.txt
+[0.359s] reading manifest file '../../build/safety_node2/safety_node2.egg-info/SOURCES.txt'
+[0.359s] writing manifest file '../../build/safety_node2/safety_node2.egg-info/SOURCES.txt'
+[0.359s] running build
+[0.360s] running build_py
+[0.360s] copying safety_node2/safety_node.py -> /arc2026/ws/build/safety_node2/build/lib/safety_node2
+[0.362s] running install
+[0.363s] running install_lib
+[0.368s] copying /arc2026/ws/build/safety_node2/build/lib/safety_node2/safety_node.py -> /arc2026/ws/install/safety_node2/lib/python3.12/site-packages/safety_node2
+[0.369s] byte-compiling /arc2026/ws/install/safety_node2/lib/python3.12/site-packages/safety_node2/safety_node.py to safety_node.cpython-312.pyc
+[0.370s] running install_data
+[0.370s] running install_egg_info
+[0.376s] removing '/arc2026/ws/install/safety_node2/lib/python3.12/site-packages/safety_node2-0.0.0-py3.12.egg-info' (and everything under it)
+[0.377s] Copying ../../build/safety_node2/safety_node2.egg-info to /arc2026/ws/install/safety_node2/lib/python3.12/site-packages/safety_node2-0.0.0-py3.12.egg-info
+[0.381s] running install_scripts
+[0.420s] Installing safety_node script to /arc2026/ws/install/safety_node2/lib/safety_node2
+[0.422s] writing list of installed files to '/arc2026/ws/build/safety_node2/install.log'
+[0.433s] Invoked command in '/arc2026/ws/src/safety_node2' returned '0': PYTHONPATH=/arc2026/ws/build/safety_node2/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/arc2026/ws/install/safety_node2/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/safety_node2 build --build-base /arc2026/ws/build/safety_node2/build install --record /arc2026/ws/build/safety_node2/install.log --single-version-externally-managed install_data
